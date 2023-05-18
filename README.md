@@ -7,11 +7,10 @@ A Nagios plugin to check the status of a Palo Alto Networks device.
 
 <sub>Due to security reasons this is SNMPv3 only.</sub>
 ```
+# check_paloalto.pl 
 Usage:
 ./check_paloalto.pl -H [ip|fqdn] -u [username] -A [authpassword] -X [privpassword] -t [system|temp|cpu|ha|sessions|icmp_sessions|vpn] -w [warning value] -c [critical value]
 
-check_paloalto.pl
-Script version:
 -H = IP/FQDN of the PA
 -u = Username
 -A = AuthPassword
