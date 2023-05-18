@@ -1,6 +1,12 @@
 # check_paloalto.pl
 A Nagios plugin to check the status of a Palo Alto Networks device.
 
+| @18th May 2023 | Version |
+|---------------:|----------|
+| Tested on      |  PA-440 |
+| PAN-OS         |  11.0.1 |
+| Nagios Core    |  4.4.11 |
+
 <sub>Unsure who the author is. Credits to the unknown author.</sub>
 
 [![GitHub release](https://img.shields.io/github/release/FoUStep/check_paloalto.pl.svg)](https://GitHub.com/FoUStep/check_paloalto.pl/releases/)
