@@ -1,5 +1,5 @@
 # check_paloalto.pl
-A Nagios plugin to check the status of a Palo Alto Networks device.
+A Nagios plugin based on Perl and SNMPv3 to check the status of a Palo Alto Networks device.
 
 | @18th May 2023 | Version |
 |---------------:|----------|
