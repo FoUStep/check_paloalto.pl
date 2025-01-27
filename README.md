@@ -1,11 +1,11 @@
 # check_paloalto.pl
 A Nagios plugin based on Perl and SNMPv3 to check the status of a Palo Alto Networks device.
 
-| @18th May 2023 | Version |
+| @27th January 2025 | Version |
 |---------------:|----------|
 | Tested on      |  PA-440 |
-| PAN-OS         |  11.0.1 |
-| Nagios Core    |  4.4.11 |
+| PAN-OS         |  11.2.4-h2 |
+| Nagios Core    |  4.5.9 |
 
 <sub>Unsure who the author is. Credits to the unknown author.</sub>
 
